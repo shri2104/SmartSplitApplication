@@ -20,9 +20,10 @@ History Section: Tracks group creation, deletion, and expense history.
 
 Friends Section: Sending friend requests, adding friends, and managing friendships.
 
-Grocery Section: Build shared grocery lists, split items, and track budgets.
+Store Section: Build store lists, add items with amounts.
 
-SmartSplit AI – Snap receipts, auto-split bills, and get intelligent settlement suggestions.
+SmartSplit AI : Designed to assist users via chat, guiding them to understand and use the app effectively.
+
 
 
 📱 Screenshots
