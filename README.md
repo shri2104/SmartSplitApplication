@@ -4,6 +4,8 @@ SmartSplit is a simple and user-friendly expense-sharing app that helps friends,
 With SmartSplit, you can create groups, add expenses, and split bills equally or unequally. 
 The app keeps track of pending balances, so everyone knows who owes what, making money management smooth and transparent.
 
+
+
 Features
 
 Modern Authentication Flow: Gradient UI login/signup with full authentication.
